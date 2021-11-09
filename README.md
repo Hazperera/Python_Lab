@@ -1,2 +1,2 @@
-# gimmicks
-tips and tricks of programming (python)
+# Daily_Python
+Useful Python scripts for everyday data cleaning
